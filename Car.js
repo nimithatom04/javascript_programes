@@ -43,6 +43,6 @@ class Student {
         console.log("Age is: " + this.age)
     }
 }
-const student1 = new Student("Nikhitha", 40, 10)
-student1.display()
+const student2= new Student("Nikhitha", 40, 10)
+student2.display()
 

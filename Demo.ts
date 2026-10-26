@@ -21,7 +21,7 @@ console.log(sub(30,30))
 
 function displayDetails(price:number, brand:string):void{
     console.log(price + "," +brand)
-}
+}-
 displayDetails(20000,"hp")
 
 //Arry 
